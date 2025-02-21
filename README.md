@@ -1,8 +1,8 @@
-# Jogo da velha #🕹️
+# Jogo da velha
 
 Bem-vindo ao Jogo da Velha, uma implementação clássica do famoso jogo de tabuleiro, onde dois jogadores se enfrentam em uma batalha de estratégia e lógica! Este projeto foi desenvolvido em C# e oferece uma experiência simples e divertida para jogadores de todas as idades.
 
-# Como Jogar
+# Como Jogar 🕹️
 
 O jogo é jogado em um tabuleiro 3x3, onde os jogadores alternam turnos para marcar suas jogadas. Um jogador utiliza o símbolo 'X' e o outro utiliza 'O'. O objetivo é ser o primeiro a alinhar três símbolos em uma linha, seja horizontal, vertical ou diagonal.
 
